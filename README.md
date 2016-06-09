@@ -15,4 +15,3 @@ Main QC script is run using bsub_qc.sh, which initiates the main qc_pipeline.sh.
 8. Making VCFs for filtered pindel output for VEP input & annotate final filtered VCF using VEP.
 
 
-Reyka Jayasinghe (rjayasin@genome.wustl.edu) and Steven Foltz (sfoltz@genome.wustl.edu).
